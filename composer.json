@@ -1,0 +1,9 @@
+{
+  "name": "mesiarm/phpqrcode",
+  "description": "PHP QR CODE",
+  "autoload": {
+    "psr-0": {
+      "RAFIE\\": "src/"
+    }
+  }
+}
